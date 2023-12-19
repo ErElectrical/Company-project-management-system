@@ -5,4 +5,8 @@
     <RootNamespace>Company_project_management_system</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="7.0.3" />
+  </ItemGroup>
+
 </Project>
